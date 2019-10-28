@@ -17,7 +17,11 @@ namespace TeamProject
         public NewInfo()
         {
             InitializeComponent();
-            this.ActiveControl = NewInfo_Text_Id;
+            this.ActiveControl = NewInfo_Text_Id;  
+
+
+
+
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
