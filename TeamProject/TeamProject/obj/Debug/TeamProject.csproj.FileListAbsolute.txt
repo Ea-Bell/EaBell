@@ -1,0 +1,11 @@
+E:\[0]github\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+E:\[0]github\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+E:\[0]github\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+E:\[0]github\TeamProject\TeamProject\obj\Debug\TeamProject.csprojAssemblyReference.cache
+E:\[0]github\TeamProject\TeamProject\obj\Debug\TeamProject.LogInForm.resources
+E:\[0]github\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+E:\[0]github\TeamProject\TeamProject\obj\Debug\TeamProject.NewInfo.resources
+E:\[0]github\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+E:\[0]github\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+E:\[0]github\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+E:\[0]github\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
